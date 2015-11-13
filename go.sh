@@ -1,0 +1,10 @@
+echo ""
+echo "Language: Python"
+echo "For details on assumptions, check the top of sortable.py"
+echo "Running application...."
+time python sortable.py
+echo "Output is out.txt"
+echo "To run application with different input file names: "
+echo "python sortable.py --list <listings_file_path> --products <product_file_path> --outfile <out_path>"
+echo "All arguments are optional"
+echo ""
